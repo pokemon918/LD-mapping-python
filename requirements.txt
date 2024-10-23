@@ -1,0 +1,7 @@
+selenium
+plistlib
+Pillow
+scikit-image
+matplotlib
+scipy
+numpy
